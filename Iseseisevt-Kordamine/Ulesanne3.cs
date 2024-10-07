@@ -1,5 +1,5 @@
-﻿using System; // Подключаем пространство имен для использования основных классов
-using System.Collections.Generic; // Подключаем пространство имен для работы с коллекциями, такими как списки и словари
+﻿using System; 
+using System.Collections.Generic; 
 
 class Ulessane3 // Объявляем класс Ulessane3
 {
