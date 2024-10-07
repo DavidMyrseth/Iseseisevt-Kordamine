@@ -1,7 +1,7 @@
 ﻿using System; 
 using System.Collections.Generic; 
 
-class Ulessane3 // Объявляем класс Ulessane3
+class Ulessane3 
 {
     public static void Solve() // Статический метод Solve для решения задачи. После удаления человека 'C'
     {
